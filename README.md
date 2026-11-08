@@ -29,14 +29,18 @@
 
 
 <h3>🧰 Tech Stack </h3>
-![HTML5](https://img.shields.io/badge/HTML5-2a2825?style=for-the-badge&logo=html5&logoColor=e07840)
-![CSS3](https://img.shields.io/badge/CSS3-2a2825?style=for-the-badge&logo=css3&logoColor=e07840)
-![JavaScript](https://img.shields.io/badge/JavaScript-2a2825?style=for-the-badge&logo=javascript&logoColor=e07840)
-![PHP](https://img.shields.io/badge/PHP-2a2825?style=for-the-badge&logo=php&logoColor=e07840)
-![MySQL](https://img.shields.io/badge/MySQL-2a2825?style=for-the-badge&logo=mysql&logoColor=e07840)
-![Flutter](https://img.shields.io/badge/Flutter-2a2825?style=for-the-badge&logo=flutter&logoColor=e07840)
-![Supabase](https://img.shields.io/badge/Supabase-2a2825?style=for-the-badge&logo=supabase&logoColor=e07840)
-![Git](https://img.shields.io/badge/Git-2a2825?style=for-the-badge&logo=git&logoColor=e07840)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-1B4332?style=for-the-badge&logo=python&logoColor=e07840" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-2D6A4F?style=for-the-badge&logo=cplusplus&logoColor=e07840" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-6B8E6E?style=for-the-badge&logo=openjdk&logoColor=e07840" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-D6A85E?style=for-the-badge&logo=javascript&logoColor=e07840" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-344E41?style=for-the-badge&logo=postgresql&logoColor=e07840" alt="SQL" />
+  <img src="https://img.shields.io/badge/CSS3-52796F?style=for-the-badge&logo=css3&logoColor=e078407" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-233D4D?style=for-the-badge&logo=mysql&logoColor=e07840" alt="MySQL" />
+  <img src="https://img.shields.io/badge/NumPy-355070?style=for-the-badge&logo=numpy&logoColor=e07840" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-4F772D?style=for-the-badge&logo=plotly&logoColor=e07840" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Git-588157?style=for-the-badge&logo=git&logoColor=e07840" alt="Git" />
+</p>
 
 <h3>☕ Activity</h3>
 
