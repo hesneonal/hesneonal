@@ -39,7 +39,7 @@
   ![Flutter](https://img.shields.io/badge/Flutter-2E2016?style=for-the-badge&logo=flutter&logoColor=E8B87A)
   ![Supabase](https://img.shields.io/badge/Supabase-2E2016?style=for-the-badge&logo=supabase&logoColor=E8B87A)
   ![Git](https://img.shields.io/badge/Git-2E2016?style=for-the-badge&logo=git&logoColor=E8B87A)
-</div
+</div>
 
 <h3>☕ Activity</h3>
 
