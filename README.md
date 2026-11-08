@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FitrahNeonal&style=for-the-badge&color=D08C3E&label=Profile+Views">
-  <img src="https://img.shields.io/github/followers/FitrahNeonal?style=for-the-badge&color=B8742F&labelColor=2E2016&label=Followers">
+  <img src="https://komarev.com/ghpvc/?username=hesneonal&style=for-the-badge&color=D08C3E&label=Profile+Views">
+  <img src="https://img.shields.io/github/followers/hesneonal?style=for-the-badge&color=B8742F&labelColor=2E2016&label=Followers">
 </p>
 
 <h3>📚 About Me </h3>
