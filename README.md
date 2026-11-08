@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/banner.jpg" alt="Fitrah Neonal banner" width="100%">
+  <img src="img/banner.png" alt="Fitrah Neonal banner" width="100%">
 </div>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 <h3>📚 About Me </h3>
 
-<img align="right" width="200" src="img/sides.jpg" alt="side image">
+<img align="right" width="200" src="img/sides.png" alt="side image">
 
 - 🎓 Informatics Engineering student at UAD, class of 2024
 - 🚀 I enjoy building small projects, like my anonyneo-bot on telegram.
@@ -46,4 +46,4 @@
 
 <p align="center">coolyeah</p>
 
-<img src="img/footer.jpg" alt="footer" width="100%">
+<img src="img/footer.png" alt="footer" width="100%">
