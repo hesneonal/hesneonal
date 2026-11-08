@@ -46,4 +46,4 @@
 
 <p align="center">coolyeah</p>
 
-<img src="img/footer.png" alt="footer" width="100%">
+<img src="img/footer.jpeg" alt="footer" width="100%">
