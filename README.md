@@ -29,7 +29,7 @@
 
 
 <h3>🧰 Tech Stack </h3>
-<p align="center">
+<div align="center">
   ![Python](https://img.shields.io/badge/Python-1B4332?style=for-the-badge&logo=python&logoColor=E8B87A)
   ![HTML5](https://img.shields.io/badge/HTML5-2E2016?style=for-the-badge&logo=html5&logoColor=E8B87A)
   ![CSS3](https://img.shields.io/badge/CSS3-2E2016?style=for-the-badge&logo=css3&logoColor=E8B87A)
@@ -39,7 +39,7 @@
   ![Flutter](https://img.shields.io/badge/Flutter-2E2016?style=for-the-badge&logo=flutter&logoColor=E8B87A)
   ![Supabase](https://img.shields.io/badge/Supabase-2E2016?style=for-the-badge&logo=supabase&logoColor=E8B87A)
   ![Git](https://img.shields.io/badge/Git-2E2016?style=for-the-badge&logo=git&logoColor=E8B87A)
-</p>
+</div
 
 <h3>☕ Activity</h3>
 
